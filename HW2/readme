@@ -1,0 +1,29 @@
+### 2 Julia set ###
+
+#  Due 14 Nov by 23:59 Points 7 Submitting a website url or a file upload #
+#  Available until 23 Dec at 23:59 #
+
+For a fixed complex number c, the Julia set Jc is the set of complex numbers for which the iterative process
+
+z -> z^2 + c
+
+does not diverge to infinity.
+
+ 
+
+Step-by-step guide:
+● fix a value of C (can be 0)
+● implement the map, plot the
+evolution of z (Re(z), Im(z))
+● play around with values of C, see the change of evolution
+● for a given C if the sequence converges use black color, if it diverges use white color, if it starts jumping between “n” values use different colors
+● plot the Julia set
+
+------------------
+
+CRITERIA:
+
+1. Black and white colors of pixels are correct (1 point)
+2. Different colors for bifurcation points (you can also create your own coloring logic or look for proposals on the internet) (1 point)
+3. Generate figure of Julia set (c = 1-r) where r is the golden ratio. Label the axes (Re(z0), Im(z0)) (2 points)
+4. Plot figures for c=exp(ia), a = range(0,2pi) & write down axes like in subtask 3, create animation of these figures slowly changing the a (3 points)

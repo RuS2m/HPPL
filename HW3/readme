@@ -1,0 +1,32 @@
+### 3 Schelling model ###
+
+# Due 14 Nov by 23:59 Points 7 Submitting a website url or a file upload #
+# Available until 23 Dec at 23:59 #
+
+1) Suppose there are two types of agents: X and O. Two populations of the two agent types are initially placed into random locations of a neighborhood
+represented by a grid. After placing all the agents in the grid, each cell is either occupied by an agent or is empty.
+2) Now we must determine if each agent is satisfied with its current location. A satisfied agent is one that is surrounded by at least t percent of agents that are like itself. This threshold t is one that will apply to all agents in the model.
+3) When an agent is not satisfied, it can be moved to any vacant location in the grid. Any algorithm can be used to choose this new location. For example, a randomly selected cell may be chosen, or the agent could move to the nearest available location.
+4) All dissatisfied agents must be moved in the same round. After the round is complete, a new round begins, and dissatisfied agents are once again moved to new locations in the grid.
+
+ 
+
+Steps:
+1. Randomize the map with half white/half black
+2. define the value of R (0, ⅛, 2/8, ⅜, 4/8, ⅝,6/8,⅞, 1), start the game
+3. on each step for each cell find out if the cell wants to move - this
+cell is now on the market (considered free for moving in)
+4. after you finished with the whole map - cells that want to move
+can move into free cells
+5. repeat the whole procedure
+
+----------------
+
+CRITERIA:
+
+1. Create 9 gifs of map evolution for 9 values of R (5 points)
+2. Plot the number of households that want to move versus time for 9 values of R on one graph, label 9 curves, label the axes and title the graph. (2 points)
+
+ 
+
+if you have any questions, contact the TAs.
