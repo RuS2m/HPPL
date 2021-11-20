@@ -1,0 +1,20 @@
+### 4 Spectrogram  ###
+
+#  Due Sunday by 23:59 Points 5 Submitting a website url or a file upload #
+#  Available until 23 Dec at 23:59 #
+
+
+A spectrogram is a plot of signal intensity versus time and frequency. It is produced using the windowed Fourier transform. To do the home task use the code provided during the session.
+
+ 
+
+CRITERIA:
+
+
+1. Add 4th wave packet (frequency = 4 and time_shift = 7 cycles). Demonstrate the effect on the plot of the FFT spectrum. (1 point)
+2. Implement the spectrogram, show the effect of (1) on the spectrogram. Don’t forget to label the axes (2 points)
+3. Change the number of time steps in your signal to the power of 2 (i.e. 2**14) and then slightly change the number of timesteps (i.e 2**14 +- 5). Measure the timing, can you explain the difference? Write something as a possible explanation. (2 points)
+
+ 
+
+if you have any questions, contact the TAs.
