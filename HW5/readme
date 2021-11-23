@@ -1,0 +1,19 @@
+### 5 Parallel Bifurcation diagram ###
+
+#  Due Sunday by 23:59 Points 4 Submitting a website url or a file upload #
+#  Available until 22 Dec at 23:59 #
+
+In this assignment, we parallelize home task #1.
+
+You can probably notice that you can perform computations on different values of r in parallel. There's even no need to communicate data between processes except at the end when you can make comm.gather/comm.Gather to one process and draw the final picture.
+
+ 
+
+CRITERIA:
+
+1. Implement parallel computation of bifurcation map (2 points)
+2. Plot speedup vs number of processes (SPEEDUP is not the same a computation time) (2 points)
+
+ 
+
+if you have any questions, contact the TAs.
