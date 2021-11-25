@@ -36,5 +36,5 @@ if rank == 0:
     plt.ylabel('x')
     plt.xlabel('r')
     plt.scatter(r, all_x, s=0.1)
-    plt.show()
+    #plt.show()
     plt.savefig('bifurcation.png')
