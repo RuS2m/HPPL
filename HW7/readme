@@ -1,0 +1,24 @@
+### 7 Study an integral  ###
+
+#  Due 5 Dec by 23:59 Points 6 Submitting a website url or a file upload #
+#  Available until 23 Dec at 23:59 #
+
+Take some function R -> R and compute its integral over some segment.
+
+ 
+
+CRITERIA:
+
+1. Compute the value analytically (1 point)
+
+2. Compute the integral using trapezoidal rule (1 point)
+
+3. Parallelize using MPI. You should be able to choose any number of MPI processes regardless of the number of discretization points. (2 points)
+
+4. Plot the speedup vs number of processors (1 point)
+
+5. Plot integration error vs the discretization size (1 point)
+
+ 
+
+if you have any questions, contact the TAs.
