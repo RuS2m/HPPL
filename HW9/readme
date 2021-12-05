@@ -1,0 +1,26 @@
+### 9 Conway's Game of Life  ###
+
+# Due 5 Dec by 23:59 Points 10 Submitting a website url or a file upload #
+# Available until 23 Dec at 23:59 #
+
+Refer to the wiki or to lecture 5 about Conway's Game of Life.
+
+ 
+
+CRITERIA:
+
+1. Implement the game of life sequentially (1 point)
+
+2. Provide a parallel implementation (2 points)
+
+3. Your parallel implementation runs for any number of MPI processors, regardless of the number of cells (2 points)
+
+4. Run the game with the "Gosper's glider gun" initial condition (1 point)
+
+5. Model at least two more initial conditions (2 points)
+
+6. Plot the number of the living cells vs time for the three initial conditions above (2 points)
+
+ 
+
+if you have any questions, contact the TAs.

@@ -1,0 +1,19 @@
+### 8 Shifted pictures  ###
+
+#  Due 5 Dec by 23:59 Points 6 Submitting a website url or a file upload #
+#  Available until 23 Dec at 23:59 #
+
+Shift the columns/rows of a picture cyclically. Here's a possible example.
+
+
+CRITERIA:
+
+1. The number of MPI processors can be chosen arbitrarily, not depending on the picture width (2 points)
+
+2. Plot the speedup vs number of processors (2 points)
+
+3. Plot memory consumption vs number of processors (2 points)
+
+ 
+
+if you have any questions, contact the TAs.
