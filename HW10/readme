@@ -1,0 +1,17 @@
+### 10 Saxpy  ###
+
+# Due Sunday by 23:59 Points 19 Submitting a website url or a file upload #
+# Available 3 Dec at 0:00 - 23 Dec at 23:59 21 days #
+
+ 
+
+CRITERIA:
+
+1. An explanation is given of what is the difference between cupy and numpy. How does cupy handle data between cpu and gpu? (1 point)
+
+2. Function saxpy runs on GPU using cupy is provided (1 points)
+
+3. Graph (OX - size of arrays, OY - computation time) is given. Plot numpy and copy implementations (2 points)
+ 
+
+if you have any questions, contact the TAs.
