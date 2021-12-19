@@ -1,0 +1,16 @@
+### 11 CuPy-based Bifurcation map ###
+
+# Due Sunday by 23:59 Points 19 Submitting a website url or a file upload #
+# Available 3 Dec at 0:00 - 23 Dec at 23:59 21 days #
+
+ 
+
+CRITERIA:
+
+1. Bifurcatino map is performed using cupy arrays (2 points)
+
+2. Cupy bifurcation map imlpmentation is profiled
+
+3. Graph (OX - number total iterations, OY - computational time) is given. Plot cpu, mpi amd cupy implementations. 
+
+if you have any questions, contact the TAs.
