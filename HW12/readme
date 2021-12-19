@@ -1,0 +1,16 @@
+### 12 Cupy-Based Histogram  ###
+
+# Due Sunday by 23:59 Points 19 Submitting a website url or a file upload #
+# Available 3 Dec at 0:00 - 23 Dec at 23:59 21 days #
+
+ 
+
+CRITERIA:
+
+1. Function from jupyter notebook is plotted with suggested number of points (1 point)
+
+2. Histogram is plotted
+
+3. Computation time of cp.sum() and np.sum() are provided (only two function, no need to include plot drawing time into it) 
+
+if you have any questions, contact the TAs.

@@ -1,0 +1,16 @@
+### 13 CuPy-based Image blur  ###
+
+# Due Sunday by 23:59 Points 19 Submitting a website url or a file upload #
+# Available 3 Dec at 0:00 - 23 Dec at 23:59 21 days #
+
+ 
+
+CRITERIA:
+
+1. Before and after pictures are given (any 100x100 image)
+
+2. Cupy version computation time is given
+
+3. Numpy version computation time is given 
+
+if you have any questions, contact the TAs.
